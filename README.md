@@ -10,6 +10,6 @@ So I, with the help of Opus 5.5,
 - added more details per page when it was half empty,
 - added 2 extra sections at the bottom.
 
-This makes it into an actual document and more complete in my opinion. I attached the style .typ, and the guide in both .typ and the compiled .pdf files.
+This makes it into an actual document and more complete in my opinion. I attached the style .typ, and the guide in both the .typ and the .pdf formats.
 
 Sources used: the HTML of the [original website](https://joshuaswanson.github.io/swiss-german/) for the style and a CTRL+A for the content.
